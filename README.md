@@ -61,7 +61,6 @@ Direcionado ao desenvolvimento de soluções eficientes, robustas e escaláveis,
 - Projeto acadêmico em equipe desenvolvido utilizando **Flutter** e **Firebase** para gerenciamento de dados em tempo real.
 
 ---
----
 
 ### 🤝 Conecte-se Comigo
 
